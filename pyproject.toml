@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+#[project]
+#name = "mango-leaf-health-classifier"
+#version = "0.1.0"
+#description = "End-to-End Deep Learning Web Application for Mango Leaf Disease Classification with CI/CD Deployment on Azure App Service"
+#authors = [
+    #{name = "Olumide Olumayegun", email = "midemayegun@yahoo.co.uk"},
+#]
