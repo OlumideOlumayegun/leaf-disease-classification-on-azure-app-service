@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7ca62c11-85eb-4b67-879e-657871f4231a/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/leafApp79",
+    "appService.deploySubpath": "."
+}
