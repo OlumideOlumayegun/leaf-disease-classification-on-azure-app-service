@@ -1,0 +1,17 @@
+.dvc
+.github
+artifacts
+research
+.dvcignore
+.gitignore
+dvc.lock
+implementation_note.ipynb
+inputImage.jpg
+leaf_banner.png
+leaf_banner2.png
+template.py
+#*.egg-info
+__pycache__/
+*.pyc
+*.pyo
+requirements.txt
